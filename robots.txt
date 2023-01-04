@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://atg-epower.github.io/sitemap.xml
